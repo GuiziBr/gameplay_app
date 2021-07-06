@@ -46,8 +46,7 @@ Aplicativo para organização de jogos com amigos via Discord desenvolvido duran
 
 ## 🔖 Layout
 
-Layout disponível em [desse link](https://www.figma.com/file/aGuo4lkFSMfYmYHhS6yeCY/GamePlay---NLW-Together).
-
+Layout disponível [nesse link](https://www.figma.com/file/aGuo4lkFSMfYmYHhS6yeCY/GamePlay---NLW-Together).
 
 ## Executando o projeto
 
